@@ -1,0 +1,8 @@
+# 垂直位置
+vertical-center : true
+
+# CSS
+theme-override : assets/PITCHME.css
+
+# スライド設定  
+slide-number: true  
